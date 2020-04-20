@@ -1,0 +1,284 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ProgramizanoviWindows
+</name>
+</assembly>
+<members>
+<member name="P:Programi_za_novi_Windows.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources._1337x_to">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources._7zip">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.Battle_net">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.BitTorrent">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.bluestacks">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.bs_player">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.Chrome">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.discord">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.Epic_Games">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.EZTV">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.facebook">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.filmovi">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.firefox">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.fitgirl_repacks">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.GameLoop">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.Genymotion">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.gog">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.Gom_player">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.IE">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.imdb">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.instagram">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.ja">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.ja2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.jaaa32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.KM_PLAYER">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.LDPlayer">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.limetorrents">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.limetorrents1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.MplayerX">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.mrvica">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.mrvicaaa">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.Nox_player">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.Opera">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.origin">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.paypal">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.PotPlayer">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.radio">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.radio_industry_advertising_fm_broadcasting_internet_radio_png_favpng_cr2j8qyZc9zAyUwe5Tn3aLgZh">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.radio2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.rar">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.rarbg">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.real_player">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.Riot_Games">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.Rufus">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.safari">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.skype">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.Social_club">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.speed_test">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.Steam">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.stremio">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.teamspeaker">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.torrentz">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.TPB">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.TPB1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.twitter">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.uplay">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.utorrent">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.utorrent1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.VLC">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.wargaming">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.winzip">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.youtube">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.YTS">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.YTS1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Programi_za_novi_Windows.My.Resources.Resources.zooqle">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Programi_za_novi_Windows.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

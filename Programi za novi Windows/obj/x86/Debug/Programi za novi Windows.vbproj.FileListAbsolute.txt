@@ -1,0 +1,14 @@
+c:\users\wtf vinjak\documents\visual studio 2010\Projects\Programi za novi Windows\Programi za novi Windows\bin\Debug\Programi za novi Windows.exe
+c:\users\wtf vinjak\documents\visual studio 2010\Projects\Programi za novi Windows\Programi za novi Windows\bin\Debug\Programi za novi Windows.pdb
+c:\users\wtf vinjak\documents\visual studio 2010\Projects\Programi za novi Windows\Programi za novi Windows\bin\Debug\Programi za novi Windows.xml
+c:\users\wtf vinjak\documents\visual studio 2010\Projects\Programi za novi Windows\Programi za novi Windows\obj\x86\Debug\Programi_za_novi_Windows.Form1.resources
+c:\users\wtf vinjak\documents\visual studio 2010\Projects\Programi za novi Windows\Programi za novi Windows\obj\x86\Debug\Programi_za_novi_Windows.Resources.resources
+c:\users\wtf vinjak\documents\visual studio 2010\Projects\Programi za novi Windows\Programi za novi Windows\obj\x86\Debug\Programi za novi Windows.vbproj.GenerateResource.Cache
+c:\users\wtf vinjak\documents\visual studio 2010\Projects\Programi za novi Windows\Programi za novi Windows\obj\x86\Debug\Programi za novi Windows.exe
+c:\users\wtf vinjak\documents\visual studio 2010\Projects\Programi za novi Windows\Programi za novi Windows\obj\x86\Debug\Programi za novi Windows.xml
+c:\users\wtf vinjak\documents\visual studio 2010\Projects\Programi za novi Windows\Programi za novi Windows\obj\x86\Debug\Programi za novi Windows.pdb
+c:\users\wtf vinjak\documents\visual studio 2010\Projects\Programi za novi Windows\Programi za novi Windows\bin\Debug\Programi za novi Windows.exe.manifest
+c:\users\wtf vinjak\documents\visual studio 2010\Projects\Programi za novi Windows\Programi za novi Windows\bin\Debug\Programi za novi Windows.application
+c:\users\wtf vinjak\documents\visual studio 2010\Projects\Programi za novi Windows\Programi za novi Windows\obj\x86\Debug\Programi za novi Windows.TrustInfo.xml
+c:\users\wtf vinjak\documents\visual studio 2010\Projects\Programi za novi Windows\Programi za novi Windows\obj\x86\Debug\Programi za novi Windows.exe.manifest
+c:\users\wtf vinjak\documents\visual studio 2010\Projects\Programi za novi Windows\Programi za novi Windows\obj\x86\Debug\Programi za novi Windows.application

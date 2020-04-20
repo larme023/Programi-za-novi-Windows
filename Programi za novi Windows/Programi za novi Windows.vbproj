@@ -1,0 +1,387 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{668004CC-5C8C-4DFE-9DDC-68836464379D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Programi_za_novi_Windows.My.MyApplication</StartupObject>
+    <RootNamespace>Programi_za_novi_Windows</RootNamespace>
+    <AssemblyName>Programi za novi Windows</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\wtf VINJAK\Desktop\moj app\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Programi za novi Windows.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Programi za novi Windows.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>favicon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>3D808970431582B0C89BCCBBACD31AFFEFDA9404</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Programi za novi Windows_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Programi za novi Windows_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Chrome.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\firefox.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Opera.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\safari.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Battle.net.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Epic Games.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gog.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\origin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Riot Games.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Social club.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Steam.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uplay.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wargaming.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bs player.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gom player.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\KM PLAYER.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MplayerX.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PotPlayer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\real player.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stremio.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VLC.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bluestacks.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GameLoop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Genymotion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LDPlayer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Nox player.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7zip.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rufus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\winzip.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BitTorrent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\utorrent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\utorrent1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\discord.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\skype.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\teamspeaker.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\facebook.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\instagram.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\twitter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\youtube.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\paypal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ja.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ja2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jaaa32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mrvica.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mrvicaaa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\speed test.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\radio-industry-advertising-fm-broadcasting-internet-radio-png-favpng-cr2j8qyZc9zAyUwe5Tn3aLgZh.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\filmovi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\radio.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\radio2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imdb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1337x.to.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EZTV.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fitgirl-repacks.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\limetorrents.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rarbg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\torrentz.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TPB.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\YTS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zooqle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\YTS1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TPB1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\limetorrents1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="favicon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
